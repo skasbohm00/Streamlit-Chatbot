@@ -1,0 +1,12 @@
+[theme]
+base="dark"
+# Primary brand color for your applications.
+# primaryColor="#F63366" # Example: A vibrant pink
+# Background color for the main content area.
+# backgroundColor="#0E1117" # Example: A very dark gray/black
+# Background color for the sidebar and other inverse components.
+# secondaryBackgroundColor="#262730" # Example: A slightly lighter dark gray
+# Color used for almost all text in the app.
+# textColor="#FAFAFA" # Example: White
+# Font family for the app.
+# font="sans serif" # Example: Can be "sans serif", "serif", or "monospace"
